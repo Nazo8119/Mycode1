@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchBucket</Code><Message>The specified bucket does not exist</Message><BucketName>awscodedeploy-us-1</BucketName><RequestId>F6E3784549547AD7</RequestId><HostId>PTAoTjIGyhEcdcQrBd4bWOqx6Gkl+/7kfZ4p61xCsEBs0Q44eisHLKPo4tjPGbtXAdWTG34zoUI=</HostId></Error>
